@@ -1,4 +1,4 @@
-# lottery_dApp
+# lottery_contract
 This is a lottery dapp written  in  smartpy.
 
 This is a SmartPy contract that implements a lottery game. 
